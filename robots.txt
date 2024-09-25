@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tdeku.github.io/fDL/sitemap.fDL.gz
